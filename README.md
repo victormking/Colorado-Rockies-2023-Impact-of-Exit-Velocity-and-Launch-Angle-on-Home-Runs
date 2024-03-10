@@ -1,12 +1,11 @@
-# Final Project Research Question
+# Final Project
 
-## Creating visualizations that demonstrate the effect that Exit Velocity and Launch Angle had on Home Runs at Coors field vs playing away for the 2023 season.
-### Brief Description of Project - The Question:
- comparing making a HR at Coors vs other ballparks using fixed effects - HR ~ Launch Angle + Exit Velocity + Coors
-____ 
+## Creating visualizations that demonstrate the effect that Exit Velocity and Launch Angle have on Home Runs hit by the MLB Colorado Rockies in 2023 at Home (at Coors) and Away stadiums (not at Coors).
 
-"data"
+`Colorado Rockies HR ~ Launch Angle + Exit Velocity + Coors.ipynb` Includes code to prepare, analyze, and visualize MLB 2023 Colorado Rockies game data and metrics to investigate their correlation with Home Runs hit at Home (at Coors) and Away stadiums (not at Coors).
 
-Visualizations
+`Data` Includes all data files used to carry-out the project.
 
-Video Link: 
+`Visualizations` Includes various graphical visualizations used to show the relationship between key metrics and Home Runs hit at Home (at Coors) and Away stadiums (not at Coors).
+
+Presentation Link:
