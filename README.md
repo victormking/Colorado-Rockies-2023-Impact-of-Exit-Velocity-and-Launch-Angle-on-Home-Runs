@@ -1,4 +1,4 @@
-# Final Project
+# Colorado Rockies 2023: Impact of Exit Velocity and Launch Angle on Home Runs
 
 ## Creating visualizations that demonstrate the effect that Exit Velocity and Launch Angle have on Home Runs hit by the MLB Colorado Rockies in 2023 at Home (at Coors) and Away stadiums (not at Coors).
 
