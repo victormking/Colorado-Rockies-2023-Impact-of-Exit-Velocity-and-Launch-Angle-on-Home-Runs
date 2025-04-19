@@ -11,8 +11,10 @@
 [Presentation Link](https://youtu.be/FQJNbbck-H4?si=e1K-n39PCIU4Iq7a)
 
 
-## Pair Plots: Exit Velocity vs Launch Angle (Colorado Rockies 2023)
+## Pair Plot: Exit Velocity vs Launch Angle (Colorado Rockies, 2023)
 
-This visualization combines **density plots and scatterplots** to compare the frequency distributions of exit velocity and launch angle for Colorado Rockies hitters. The downward correlation trend shows that higher launch angles slightly reduce average exit velocity — supporting the idea that there's a tradeoff in swing path optimization.
+This pair plot shows the relationship between **launch angle and exit velocity** among Colorado Rockies hitters. 
+- Diagonal panels show kernel density plots for each variable.  
+- Off-diagonal panels reveal a slight negative correlation — higher launch angles tend to reduce average exit velocity.
 
-![EV vs LA Pair Plots](Visualizations/Pair%20Plots%2C%20Comparing%20EV%20and%20LA%20Frequencies%20by%20Density%20Plots%20and%20Scatterplots.pdf)
+![Pair Plot](https://raw.githubusercontent.com/victormking/Colorado-Rockies-2023-Impact-of-Exit-Velocity-and-Launch-Angle-on-Home-Runs/main/Visualizations/Pair_plots.png)
